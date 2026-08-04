@@ -1,6 +1,6 @@
 # Call Centre Workforce Analytics Dashboard
 Multi-year Power BI dashboard for call centre workforce analytics staffing gaps, SLA trends, AHT, and forecast accuracy
-##Table of Contents
+## Table of Contents
 
 - [Project Overview](#project-overview)
 - [The Business Story](#the-business-story)
