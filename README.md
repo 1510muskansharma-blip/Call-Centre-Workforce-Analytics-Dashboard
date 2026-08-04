@@ -15,8 +15,6 @@ Multi-year Power BI dashboard for call centre workforce analytics staffing gaps,
 - [Skills Demonstrated](#skills-demonstrated)
 - [Tools & Technologies](#tools--technologies)
 - [Project Deliverables](#project-deliverables)
-- [Repository Structure](#repository-structure)
-- [Future Enhancements](#future-enhancements)
 - [Conclusion](#conclusion)
 
 ## Project Overview
