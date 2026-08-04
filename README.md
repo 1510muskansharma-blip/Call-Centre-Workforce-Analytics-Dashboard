@@ -180,7 +180,7 @@ The report is organized into three operational sections, with a **Year slicer (2
 - Forecast Monitoring
 - Executive Recommendations
 
-(https://github.com/1510muskansharma-blip/Call-Centre-Workforce-Analytics-Dashboard/blob/main/Dashboard%402021.png)
+![Dashboard Preview](https://github.com/1510muskansharma-blip/Call-Centre-Workforce-Analytics-Dashboard/blob/main/Dashboard%402021.png)
 
 ## Conclusion
 
