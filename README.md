@@ -180,12 +180,7 @@ The report is organized into three operational sections, with a **Year slicer (2
 - Forecast Monitoring
 - Executive Recommendations
 
-## Future Enhancements
-
-- Deploy to Power BI Service for scheduled refresh and web access
-- Implement Row-Level Security (RLS) for region-specific access control
-- Integrate real-time or near real-time data feeds
-- Add drill-through pages for queue- and agent-level detail
+(https://github.com/1510muskansharma-blip/Call-Centre-Workforce-Analytics-Dashboard/blob/main/Dashboard%402021.png)
 
 ## Conclusion
 
