@@ -45,11 +45,11 @@ I built a Power BI model spanning six years of workforce and service data (2021-
 | 2025 | 82.28% | **117** | 537.52 | 79.90% |
 | 2026 | 82.86% | 26 | 536.71 | 79.90% |
 
-If staffing were the real driver, SLA should track the FTE gap worse gap, worse SLA. It doesn't. The FTE gap swings nearly 5x year to year (23 → 117) while SLA barely moves, staying locked in an 82–83% band every single year. AHT and utilization are just as flat across the same period. That combination — a metric that won't break out of its band no matter how much the inputs swing is the signature of a **structural ceiling**, not a staffing crisis: something in the process itself (routing logic, queue design, tooling) is capping performance, and staffing shortfalls are a secondary, noisier problem layered on top.
+If staffing were the real driver, SLA should track the FTE gap worse gap, worse SLA. It doesn't. The FTE gap swings nearly 5x year to year (23 → 117) while SLA barely moves, staying locked in an 82–83% band every single year. AHT and utilization are just as flat across the same period. That combination a metric that won't break out of its band no matter how much the inputs swing is the signature of a **structural ceiling**, not a staffing crisis: something in the process itself (routing logic, queue design, tooling) is capping performance, and staffing shortfalls are a secondary, noisier problem layered on top.
 
 **Recommendation**
 
-Treat this as two separate workstreams, not one. Fix the process ceiling first — it's suppressing SLA in every year regardless of headcount then address staffing gaps tactically in the specific queues and regions where they spike (Support queue, and regions like EMEA/APAC in high-gap years), rather than approving a blanket hiring request.
+Treat this as two separate workstreams, not one. Fix the process ceiling first it's suppressing SLA in every year regardless of headcount then address staffing gaps tactically in the specific queues and regions where they spike (Support queue, and regions like EMEA/APAC in high-gap years), rather than approving a blanket hiring request.
 
 **Impact** 
 
