@@ -1,6 +1,6 @@
 # Call Centre Workforce Analytics Dashboard
 Multi-year Power BI dashboard for call centre workforce analytics staffing gaps, SLA trends, AHT, and forecast accuracy
-Table of Contents
+##Table of Contents
 
 - [Project Overview](#project-overview)
 - [The Business Story](#the-business-story)
@@ -151,17 +151,17 @@ The report is organized into three operational sections, with a **Year slicer (2
 - Treat SLA improvement as two separate workstreams: a **process/efficiency fix** for the recurring 82–83% ceiling, and **targeted staffing** for queue- and region-specific gaps not a single blanket hiring initiative.
 - Prioritize additional headcount in the Support queue and in regions with the largest recurring staffing gaps.
 - Reduce customer abandonment by lowering wait times and improving routing efficiency.
-- Continue the existing forecasting strategy — forecast variance is stable and is not contributing to the SLA shortfall.
+- Continue the existing forecasting strategy forecast variance is stable and is not contributing to the SLA shortfall.
 
 ## Skills Demonstrated
 
-- **Data Modeling** — structured relationships across time, organizational, queue, and workforce dimensions
-- **Power Query** — data cleaning, including resolving mixed-type date fields
-- **DAX** — calculated fields (FTE Gap, Volume Variance, Abandon Rate, SLA Status) and KPI measures
-- **KPI Cards & Executive Scorecards** — at-a-glance operational summary
-- **Time Intelligence** — multi-year trend analysis (2021–2026)
-- **Interactive Slicers** — year-based filtering across all report pages
-- **Root Cause / Diagnostic Analysis** — connecting staffing gaps and AHT to SLA outcomes
+- **Data Modeling** structured relationships across time, organizational, queue, and workforce dimensions
+- **Power Query** data cleaning, including resolving mixed-type date fields
+- **DAX** calculated fields (FTE Gap, Volume Variance, Abandon Rate, SLA Status) and KPI measures
+- **KPI Cards & Executive Scorecards** at-a-glance operational summary
+- **Time Intelligence** multi-year trend analysis (2021–2026)
+- **Interactive Slicers** year-based filtering across all report pages
+- **Root Cause / Diagnostic Analysis** connecting staffing gaps and AHT to SLA outcomes
 
 ## Tools & Technologies
 
